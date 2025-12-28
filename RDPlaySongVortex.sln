@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDPlaySongVortex", "RDPlaySongVortex.csproj", "{71BDE3BB-5065-249E-9018-2F77A4FC030F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BDE3BB-5065-249E-9018-2F77A4FC030F}.Debug|Any CPU.ActiveCfg = BepInEx|Any CPU
+		{71BDE3BB-5065-249E-9018-2F77A4FC030F}.Debug|Any CPU.Build.0 = BepInEx|Any CPU
+		{71BDE3BB-5065-249E-9018-2F77A4FC030F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BDE3BB-5065-249E-9018-2F77A4FC030F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C359E6C-95BF-4929-8ACE-01BAD15C5AB6}
+	EndGlobalSection
+EndGlobal
